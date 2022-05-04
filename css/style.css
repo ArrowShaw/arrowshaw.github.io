@@ -267,9 +267,9 @@ div {
       border-top: 1px solid #eee;
       position: relative; }
     .post .post-content img {
-      max-width: 100%;
-      padding: 0.5em 0;
+      max-width: 50%;
       margin: auto;
+      box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
       display: block; }
     .post .post-content ul,
     .post .post-content ol {
